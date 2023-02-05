@@ -10,7 +10,7 @@ My technical skills include coding in JS, Python, MIPS, Verilog, Java, HTML, CSS
   <li> 🙂 Email: ngu0570@gmail.com </li>
   <li> ⚡️ Fun fact: I am in a relationship with Alisa Kvashko, make sure to check out her portfolio. </li>
 </ul>
-
+[This is an external link to genome.gov](https://www.genome.gov/)
 <!--
 **flyinRyann/flyinRyann** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

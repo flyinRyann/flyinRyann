@@ -6,11 +6,10 @@ I create videos and try to program some fun projects in my spare time outside of
 My technical skills include coding in JS, Python, MIPS, Verilog, Java, HTML, CSS and many other languages. 
 <ul>
   <li> 💬 Ask me about: Documentation, Volunteering, Arduino or Python. </li>
-  <li> 📩 How to reach me: DM @realryannguyen</li>
+  <li> 📩 How to reach me: DM <a href="https://twitter.com/realryannguyen">@realryannguyen</a></li>
   <li> 🙂 Email: ngu0570@gmail.com </li>
   <li> ⚡️ Fun fact: I am in a relationship with Alisa Kvashko, make sure to check out her portfolio. </li>
 </ul>
-[This is an external link to genome.gov](https://www.genome.gov/)
 <!--
 **flyinRyann/flyinRyann** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

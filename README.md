@@ -8,7 +8,7 @@ My technical skills include coding in JS, Python, MIPS, Verilog, Java, HTML, CSS
   <li> 💬 Ask me about: Documentation, Volunteering, Arduino or Python. </li>
   <li> 📩 How to reach me: DM <a href="https://twitter.com/realryannguyen">@realryannguyen</a></li>
   <li> 🙂 Email: ngu0570@gmail.com </li>
-  <li> ⚡️ Fun fact: I am in a relationship with Alisa Kvashko, make sure to check out her portfolio. </li>
+  <li> ⚡️ Fun fact: I love building practical software! </li>
 </ul>
 <!--
 **flyinRyann/flyinRyann** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

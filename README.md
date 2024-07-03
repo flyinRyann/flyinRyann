@@ -1,13 +1,12 @@
 ### Xin chào các lập trình viên 👋!
-Hi there, my name is Ryan, I'm a Vietnamese/Australian programmer. I'm currently a 3rd year university student from Monash University, Clayton Campus. I am studying a double degree of Bachelor of Electrical and Computer Systems and Bachelor of Computer Science majoring in Advanced Computer Science. I'm passionate about robotics, football, and programming. <br>
+Hi there, my name is Ryan, I'm a programmer. I'm a final-year CS student from Monash University, Clayton Campus. My major is Advanced Computer Science which has a strong focus on Algorithms. I'm passionate about robotics, football, and programming. <br>
 
-I create videos and try to program some fun projects in my spare time outside of university. My dream job is to be an electrical or software engineer at a company that creates global change or have major impact on our everyday lives. <br>
+I try to develop fun and exciting projects in my spare time outside of university. My dream job is a software engineer at a company that creates global change. <br>
 
 My technical skills include coding in JS, Python, MIPS, Verilog, Java, HTML, CSS and many other languages. 
 <ul>
   <li> 💬 Ask me about: Documentation, Volunteering, Arduino or Python. </li>
-  <li> 📩 How to reach me: DM <a href="https://twitter.com/realryannguyen">@realryannguyen</a></li>
-  <li> 🙂 Email: ngu0570@gmail.com </li>
+  <li> 📩 Email: ryan.nguyen79@outlook.com </li>
   <li> ⚡️ Fun fact: I love building practical software! </li>
 </ul>
 <!--
